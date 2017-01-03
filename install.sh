@@ -1,4 +1,6 @@
 #!/bin/sh
+sudo xcodebuild -license accept
+brew install tmux
 brew install git
 brew install caskroom/cask/brew-cask
 brew cask update

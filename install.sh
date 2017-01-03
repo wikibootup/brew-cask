@@ -1,4 +1,5 @@
 #!/bin/sh
+brew install git
 brew install caskroom/cask/brew-cask
 brew cask update
 brew upgrade

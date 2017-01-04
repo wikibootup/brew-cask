@@ -4,6 +4,7 @@ brew install tmux
 brew install git
 brew tap homebrew/dupes
 brew install openssh --with-brewed-openssl --with-keychain-support
+brew install ssh-copy-id
 brew install caskroom/cask/brew-cask
 brew cask update
 brew upgrade
